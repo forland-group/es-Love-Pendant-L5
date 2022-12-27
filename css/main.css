@@ -945,12 +945,22 @@ body {
     }
 
     .timer-title {
-        margin-top: 365px;
+        margin-top: 395px;
     }
 
     .name, 
     .phone {
         width: 300px;
+    }
+
+    .btn {
+        margin-top: 415px;
+    }
+}
+
+@media (max-width: 378px) {
+    .timer-title {
+        margin-top: 365px;
     }
 }
 
